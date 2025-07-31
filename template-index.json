@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": "dice-app",
+    "path": "dice-app",
+    "name": "Dice Roller",
+    "keywords": ["dice", "random"],
+    "icon": "dice-app/icon.png"
+  },
+  {
+    "id": "base",
+    "path": "base",
+    "name": "Empty Base",
+    "keywords": [],
+    "icon": ""
+  }
+]

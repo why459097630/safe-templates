@@ -1,0 +1,10 @@
+
+{
+  "name": "Dice Roller",
+  "id": "dice-app",
+  "description": "A simple app to roll dice by clicking or shaking the phone.",
+  "keywords": ["dice", "random", "shake"],
+  "features": ["click roll", "shake sensor", "sound effect"],
+  "previewImage": "preview.png",
+  "icon": "icon.png"
+}
