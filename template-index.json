@@ -1,4 +1,3 @@
-
 [
   {
     "id": "dice-app",
@@ -12,6 +11,27 @@
     "path": "base",
     "name": "Empty Base",
     "keywords": [],
+    "icon": ""
+  },
+  {
+    "id": "simple-template",
+    "path": "simple-template",
+    "name": "Simple Template",
+    "keywords": ["simple", "tools", "single page"],
+    "icon": ""
+  },
+  {
+    "id": "core-template",
+    "path": "core-template",
+    "name": "Core Template",
+    "keywords": ["core", "multi page", "network"],
+    "icon": ""
+  },
+  {
+    "id": "form-template",
+    "path": "form-template",
+    "name": "Form Template",
+    "keywords": ["form", "login", "database"],
     "icon": ""
   }
 ]
